@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"EDD (Error Driven Development)\" && exit 1"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@inquirer/prompts": "^7.3.3",
     "express": "^4.21.1",
