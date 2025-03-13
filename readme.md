@@ -6,7 +6,7 @@ Qr kodu tarayan direkt dosyayı indirir
 # Kurulum
 
 ```cmd
-npm i -g qr-share
+npm i -g file-share-qr
 ```
 
 # Örnek Kullanım
