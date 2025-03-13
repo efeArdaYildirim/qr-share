@@ -19,7 +19,7 @@ async function init() {
     if (file === undefined) {
 
         if (nic === undefined) {
-            throw new Error("Paylaşılacak dosya seçili değil!!!")
+            throw new Error("Paylaşılacak dosya seçili değil!!!\nqr-share dosya.adı")
         }
 
         file = nic;
